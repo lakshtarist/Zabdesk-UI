@@ -23,7 +23,7 @@ function validateForm(event) {
     }
   
     // Validation successful
-    window.location.href = '/dashboard/dashboard.html'
+    window.location.href = 'dashboard/dashboard.html'
   }
   
   function showError(message, container) {
